@@ -1,7 +1,7 @@
 <p align="center" width="150px"> hola soy beatriz</p>
 <p align="center" width="150px"> voy a la escuela proa de laboulaye a sexto año</p>
  
-<p align="center"><img src="https://images.png" width="150px"></p>
+<p align="center"><img src="[https://images.pn](https://es.dreamstime.com/en-un-fondo-acu%C3%A1tico-se-representa-bonito-panda-de-dibujos-animados-con-ojos-grandes-y-mejillas-rosas-adorable-personaje-image322664310)" width="150px"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 
