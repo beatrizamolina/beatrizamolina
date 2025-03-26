@@ -1,12 +1,12 @@
 <p align="center" width="150px"> hola soy beatriz</p>
 <p align="center" width="150px"> voy a la escuela proa de laboulaye a sexto año</p>
  
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
+<p align="center"><img src="https://images.png"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;programas de programacion
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
