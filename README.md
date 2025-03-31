@@ -1,7 +1,7 @@
 <p align="center" width="150px"> hola soy beatriz</p>
 <p align="center" width="150px"> voy a la escuela proa de laboulaye a sexto año</p>
    <img src="URL_DE_TU_IMAGEN" width="150px" />
-
+<p align="center" width="150px">me gusta programar, me gustan las matematica, odio el arte, en especial dibujar</p>
 
 
 
