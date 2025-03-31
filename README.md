@@ -1,10 +1,10 @@
 <p align="center" width="150px"> hola soy beatriz</p>
 <p align="center" width="150px"> voy a la escuela proa de laboulaye a sexto año</p>
-<p align="center" width="150px">me gusta programar, me gustan las matematica, odio el arte, en especial dibujar</p>
+<p align="center" width="150px">Me gusta programar, me gustan las matemáticas, odio el Arte, en especial dibujar</p>
 
 
 
-### 🛠 &nbsp;programas de programacion
+### 🛠 &nbsp;Lenguaje de programación
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
