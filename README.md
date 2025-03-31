@@ -2,7 +2,7 @@
 <p align="center" width="150px"> Voy a la escuela PRoA de Laboulaye a Sexto año</p>
 <p align="center" width="150px">Me gusta programar, me gustan las matemáticas, odio el Arte, en especial dibujar</p>
 <p align="center" width="150px"> Tengo 18 años</p>
-<p align="center" width="150px">mi correo es: bamolina@escuelasproa.edu.ar</p>
+<p align="center" width="150px">Mi correo es: bamolina@escuelasproa.edu.ar</p>
 
 
 
