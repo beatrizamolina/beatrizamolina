@@ -4,8 +4,6 @@
 <p align="center" width="150px"> Tengo 18 años</p>
 <p align="center" width="150px">Mi correo es: bamolina@escuelasproa.edu.ar</p>
 
-
-
 ### 🛠 &nbsp;Lenguajes de programación
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
